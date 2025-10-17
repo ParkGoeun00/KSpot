@@ -30,11 +30,15 @@ https://aibe4-project1-codetour.onrender.com/
 ### 📌메인 화면
 <img width="800" height="700" alt="Image" src="https://github.com/user-attachments/assets/8fc19322-cf33-4bf9-85cd-d77a52da752b" />
 <img width="446" height="911" alt="Image" src="https://github.com/user-attachments/assets/269c1527-0838-41d6-b8f0-120414a03f42" />
+
+
 - 인기 콘텐츠, 인기 여행루트, 사용자 맞춤 추천 컨텐츠 슬라이드
 
 
 ### 👾K-콘텐츠별 여행지 정보 제공
 <img width="796" height="912" alt="Image" src="https://github.com/user-attachments/assets/94fdd8fe-ecee-47aa-83ac-959aaf4dc48c" />
+
+
 - K-pop, K-drama/Movie, K-Webtoon, K-Food, K-Ent등 컨텐츠와 연관된 여행지 추천
 - 여행지 좋아요, 리뷰 기능
 - 최근 방문한 장소 히스토리 제공
@@ -42,12 +46,16 @@ https://aibe4-project1-codetour.onrender.com/
 
 ### 🤖 AI 코스 추천
 <img width="635" height="910" alt="Image" src="https://github.com/user-attachments/assets/a0dccd69-a327-475d-a79c-95d67039cf97" />
+
+
 - 선호하는 지역에서의 예상 정보들을 보고 최종 선택
 - AI를 이용한 맞춤 추천 일정 제안
 
   
 ### 🗺️K-콘텐츠 여행 지도
 <img width="1203" height="907" alt="Image" src="https://github.com/user-attachments/assets/7b279817-d680-47cf-98f3-103ea0f3956f" />
+
+
 - 장소 및 콘텐츠를 검색하고, 원하는 장소를 찾아서 나만의 여행 코스 계획
 - AI를 이용한 코스 추천 기능
 - 마음에 드는 코스 저장 기능
