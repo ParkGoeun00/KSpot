@@ -1,8 +1,8 @@
 # 📍K-SPOT
+<br/>
 <div align="center"><img width="392" height="106" alt="Image" src="https://github.com/user-attachments/assets/541a729a-69d0-4a91-b864-d75b92d7b19c" /></div>
-
-
-한류 콘텐츠 기반 여행 플랫폼으로, K-pop·K-drama·K-movie 촬영지 등 한류 관련 명소를 한눈에 제공합니다.
+<br/><br/>
+**한류 콘텐츠 기반 여행 플랫폼** 으로, K-pop·K-drama·K-movie 촬영지 등 한류 관련 명소를 한눈에 제공합니다.
 사용자가 좋아하는 콘텐츠를 선택하면 관련 장소를 추천하고, AI가 개인 맞춤형 여행 동선을 제안합니다.
 한국어·영어·일본어 등 다국어를 지원하며, 직관적인 UI로 외국인도 쉽게 이용할 수 있습니다.
 단순 관광을 넘어 문화 체험과 팬덤 경험을 연결하는 새로운 형태의 여행 서비스를 지향합니다.
@@ -31,52 +31,43 @@ https://aibe4-project1-codetour.onrender.com/
 ## 🌠주요기능
 
 ### 📌메인 화면
-<div align="center"><img width="800" height="700" alt="Image" src="https://github.com/user-attachments/assets/8fc19322-cf33-4bf9-85cd-d77a52da752b" />
+ <br/>
+<div align="center"><img width="800" height="900" alt="Image" src="https://github.com/user-attachments/assets/8fc19322-cf33-4bf9-85cd-d77a52da752b" />
+  <br/>
 <img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/269c1527-0838-41d6-b8f0-120414a03f42" /></div>
-
-
-
+ <br/>
 - 인기 콘텐츠, 인기 여행루트, 사용자 맞춤 추천 컨텐츠 슬라이더
-
-
+ <br/> <br/>
 ### 👾K-콘텐츠별 여행지 정보 제공
+ <br/>
 <div align="center"><img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/94fdd8fe-ecee-47aa-83ac-959aaf4dc48c" /></div>
-
-
-
+ <br/>
 - K-pop, K-drama/Movie, K-Webtoon, K-Food, K-Ent등 한류 컨텐츠와 연관된 여행지 추천
 - 여행지 좋아요, 리뷰 기능
 - 최근 방문한 장소 히스토리 제공
-
-
+ <br/> <br/>
 ### 🤖 AI 코스 추천
+ <br/>
 <div align="center"><img width="400" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0dccd69-a327-475d-a79c-95d67039cf97" /></div>
-
-
-
+ <br/>
 - 선호하는 지역에서의 예상 정보들을 보고 최종 선택
 - AI를 이용한 맞춤 추천 일정 제안
-
-  
+ <br/> <br/>  
 ### 🗺️K-콘텐츠 여행 지도
+ <br/>
 <div align ="center"><img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/7b279817-d680-47cf-98f3-103ea0f3956f" /></div>
-
-
-
+ <br/>
 - 장소 및 콘텐츠를 검색하고, 원하는 장소를 찾아서 나만의 여행 코스 계획
 - AI를 이용한 코스 추천 기능
 - 마음에 드는 코스 저장 기능
-
-  
+ <br/> <br/>
 ### 🌏다국어 지원
 - 외국인을 위한 영어, 일본어 지원
-
-  
+ <br/> <br/>
 ### ❤️마이페이지
-<div align="center><img width="392" height="106" alt="Image" src="https://github.com/user-attachments/assets/541a729a-69d0-4a91-b864-d75b92d7b19c" /></div>
-
-
-
+ <br/>
+<div align="center"><img width="392" height="106" alt="Image" src="https://github.com/user-attachments/assets/541a729a-69d0-4a91-b864-d75b92d7b19c" /></div>
+ <br/>
 - 여행 선호도 설정
 - 관심 콘텐츠 관리
 - 저장된 여행 코스 확인
